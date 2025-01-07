@@ -1,2 +1,2 @@
-# bioinfo_algo
-Bioinformatics algorithm implementations
+# bioinfo-algo
+Implementations of bioinformatics algorithms
