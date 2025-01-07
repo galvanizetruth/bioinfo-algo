@@ -1,0 +1,57 @@
+Num	Title	XP	Cost	Due Date	Questions	Solutions
+1	Greedy Reversal Sorting	 1	1	 Jan. 15, 2014	  1 month, 2 weeks	
+2	Number of Breakpoints Problem	 1	1	 Jan. 15, 2014		
+3	2-Break Distance Problem	 1	1	 Jan. 15, 2014		
+4	Shared k-mers Problem	 1	1	 Jan. 15, 2014		
+5	Frequent Words Problem	 1	1	 Jan. 22, 2014		
+6	Reverse Complement Problem	 1	1	 Jan. 22, 2014		
+7	Pattern Matching Problem	 1	1	 Jan. 22, 2014		
+8	Clump Finding Problem	 1	1	 Jan. 22, 2014		
+9	Minimum Skew Problem	 1	1	 Jan. 22, 2014		
+10	Approximate Pattern Matching Problem	 1	1	 Jan. 22, 2014		
+11	Frequent Words with Mismatches Problem	 1	1	 Jan. 22, 2014	  1 month, 1 week	
+12	Frequent Words with Mismatches and Reverse Complements Problem	 1	1	 Jan. 22, 2014		
+13	Motif Enumeration	 1	1	 Jan. 31, 2014		
+14	Median String Problem	 1	1	 Jan. 31, 2014		
+15	Profile-most Probable k-mer Problem	 1	1	 Jan. 31, 2014	  1 month, 1 week	
+16	Greedy Motif Search	 1	1	 Jan. 31, 2014	  1 month, 1 week	
+17	Greedy Motif Search with pseudocounts	 1	1	 Jan. 31, 2014		
+18	Randomized Motif Search	 1	1	 Jan. 31, 2014	  1 month	
+19	Gibbs Sampler	 1	1	 Jan. 31, 2014		
+20	The Change Problem	 1	1	 Feb. 7, 2014		
+21	Length of a Longest Path in the Manhattan Tourist Problem	 1	1	 Feb. 7, 2014	  3 weeks, 6 days	
+22	Longest Common Subsequence Problem	 1	1	 Feb. 7, 2014	  3 weeks, 5 days	
+23	Longest Path in a DAG Problem	 1	1	 Feb. 7, 2014		
+24	Global Alignment Problem	 1	1	 Feb. 7, 2014	  1 month	
+25	Local Alignment Problem	 1	1	 Feb. 7, 2014	  3 weeks, 5 days	
+26	Edit Distance Problem	 1	1	 Feb. 15, 2014		
+27	Fitting Alignment Problem	 1	1	 Feb. 15, 2014	  3 weeks, 1 day	
+28	Overlap Alignment Problem	 1	1	 Feb. 15, 2014		
+29	Alignment with Affine Gap Penalties Problem	 1	1	 Feb. 15, 2014		
+30	Middle Edge in Linear Space Problem	 1	1	 Feb. 15, 2014	  3 weeks, 4 days	
+31	Global Alignment in Linear Space Problem	 1	1	 Feb. 15, 2014	  2 weeks, 5 days	
+32	Multiple Longest Common Subsequence Problem	 1	1	 Feb. 15, 2014	  2 weeks, 5 days	
+33	String Composition Problem	 1	1	 Feb. 20, 2014		
+34	Overlap Graph Problem	 1	1	 Feb. 20, 2014	  2 weeks, 2 days	
+35	De Bruijn Graph from a String Problem	 1	1	 Feb. 20, 2014		
+36	De Bruijn Graph from k-mers Problem	 1	1	 Feb. 20, 2014		
+37	Eulerian Cycle Problem	 1	1	 Feb. 20, 2014		
+38	Eulerian Path Problem	 1	1	 Feb. 20, 2014		
+39	String Reconstruction Problem	 1	1	 Feb. 20, 2014		
+40	k-Universal Circular String Problem	 1	1	 Feb. 20, 2014		
+41	String Reconstruction from Read-Pairs Problem	 1	1	 Feb. 20, 2014		
+42	Contig Generation Problem	 1	1	 Feb. 20, 2014	  2 weeks, 1 day	
+43	Trie Construction Problem	 1	1	 Feb. 28, 2014		
+44	Multiple Pattern Matching Problem	 1	1	 Feb. 28, 2014		
+45	Longest Repeat Problem	 1	1	 Feb. 28, 2014	  6 days, 13 hours	
+46	Suffix Tree Construction Problem	 1	1	 Feb. 28, 2014		
+47	Longest Shared Substring Problem	 1	1	 Feb. 28, 2014		
+48	Shortest Non-Shared Substring Problem	 1	1	 Feb. 28, 2014		
+49	Suffix Array Construction Problem	 1	1	 Feb. 28, 2014	  1 week, 1 day	
+50	Constructing Suffix Tree from Suffix Array Problem	 1	1	 Feb. 28, 2014	  1 week	
+51	Burrows-Wheeler Transform Construction Problem	 1	1	 March 7, 2014		
+52	Inverse Burrows-Wheeler Transform Problem	 1	1	 March 7, 2014		
+53	BWMatching	 1	1	 March 7, 2014		
+54	Partial Suffix Array Problem	 1	1	 March 7, 2014		
+55	Multiple Pattern Matching Problem	 1	1	 March 7, 2014		
+55	55	
